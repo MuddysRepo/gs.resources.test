@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "level": "info",
+      "targets": [ "test", "test2" ],
+      "message": "hello, everyone!"
+    },
+    {
+      "level": "warning",
+      "targets": [ "test" ],
+      "message": "this product is obsolete."
+    },
+    {
+      "level": "error",
+      "targets": [ "test" ],
+      "message": "some errors."
+    }
+
+
+  ],
+
+  "--TERM": ""
+}
