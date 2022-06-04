@@ -1,0 +1,43 @@
+{
+  "messages": [
+    {
+      "level": "special",
+      "targets": [ 
+        "test.*" 
+      ],
+      "message": "Here is a special gift!"
+    },
+    {
+      "level": "info",
+      "targets": [ 
+        "test.*" 
+      ],
+      "message": "Information for all products."
+    },
+    {
+      "level": "info",
+      "targets": [ 
+        "test.*" 
+      ],
+      "message": "Hello, HappyDLsite users!"
+    },
+    {
+      "level": "warning",
+      "targets": [ 
+        "test.*"  
+      ],
+      "message": "this is a sample warning message."
+    },
+    {
+      "level": "error",
+      "targets": [ 
+        "test.*" 
+      ],
+      "message": "this is a sample error message."
+    }
+
+
+  ],
+
+  "--TERM": ""
+}

@@ -2,17 +2,24 @@
   "messages": [
     {
       "level": "info",
-      "targets": [ "test", "test2" ],
+      "targets": [ 
+        "test", 
+        "test2" 
+      ],
       "message": "hello, everyone!"
     },
     {
       "level": "warning",
-      "targets": [ "test" ],
+      "targets": [ 
+        "test" 
+      ],
       "message": "this product is obsolete."
     },
     {
       "level": "error",
-      "targets": [ "test" ],
+      "targets": [ 
+        "test" 
+      ],
       "message": "some errors."
     }
 

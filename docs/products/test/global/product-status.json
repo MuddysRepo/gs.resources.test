@@ -1,0 +1,36 @@
+{
+	"products" :
+	[
+ 
+
+		{
+			"productId" : "test.suspended",
+			"latestVersion" : "2.0.0",
+			"lowestAvailableVersion" : "1.5.0",
+			"status" : "suspended"
+		},
+		{
+			"productId" : "test.available",
+			"latestVersion" : "2.0.0",
+			"lowestAvailableVersion" : "1.5.0",
+			"status" : "available"
+		},
+		{
+			"productId" : "test.available.2",
+			"latestVersion" : "2.0.0",
+			"lowestAvailableVersion" : "1.5.0",
+			"status" : "available"
+		},
+		{
+			"productId" : "test.obsolete",
+			"latestVersion" : "2.0.0",
+			"lowestAvailableVersion" : "1.5.0",
+			"status" : "obsolete"
+		},
+
+
+		{	
+		}
+	],
+	"--TERM" : "" 
+}

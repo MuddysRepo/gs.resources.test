@@ -1,16 +1,16 @@
-
 --- digital sign certificate ---
 {
   "cryptoKey": "GinkgoStreet CryptographicKeyPair v1.0",
   "algorithm": "GinkgoStreet DigitalSignAlgorithm For Text (Standard v1.1)",
   "issuer": "GinkgoStreet",
-  "issueDate": "2022/04/13",
-  "contentLabel": "license for use of 'test.tampered.label'",
-  "signature": "p0dEb+7+lmtXfdDnaDj8SRYX4RsXHfa7l+XM+d3YP/puOm57tYfeyVJXayEY0I3nt29rTFnGSq2hvr1cyxKCpvdhAYaY1kq9uZlSG5lp/PFWjS0HEOasa0T5V3ZIGW3AvfpH5hz4H3JKK//6GTl4heCd4zXbxgbYHo/suuzOG98KJpqQN7k0qyMtzk5O0UgdoFU2mMBwPACJS2OqAGhawk1XImpGYKfDSd8YXmdEaV72SHjLzVxzMGeKQAVKZoSVajIQAE6Eo2YttM4PgK7y2HECj6bBmbRXM5OwLGJGHZLxYtiv4j9TU2VyG0M9UTuV7S1mDMziiWwLf8R8FTEj3g=="
+  "issueDate": "2022/06/04",
+  "contentLabel": "license for use of 'tampered.label.oops'",
+  "signature": "jZTdfp7U3OuErpCbUuKbXTg0mx2Gv+m+QDlOoD6xoavCIlRxQgR/OzBTqaQMmNJyZLwOA4zxaC94q1xpmDjexRaESYoOAp6yd+KDF5+iGb7sCykK2+wMQW7m1MRHdQl/r+oqfZRdynq6K/Rd/JrjbqLKg56H2uKpZBDKqwqJcaT64q6UAYNXVoaVtSrJZZf8nt4DtPlLIjFVRJfvXwVh8XUZY0aVVSfiuO7NAji8uoYBWOZiew36JC2Hg3GAjcnfuhcFIbdvchPRcEhYN1bFgPev2Rg8fhfZw6Ct9IyX1+mqYqoEfBTOlwgBLRXIURWoUt5OBacxHw+Gyl7OFER8+w=="
 }
 --- content ---
 {
-  "licenseId": "test.eternal",
-  "beginDate": "2020/01/01 00:00",
-  "endDate": "2039/12/26 23:59"
+  "licenseType": "DateRangeLicense",
+  "licenseId": "tampered.label",
+  "beginDate": "2020/01/01",
+  "endDate": "2029/12/31"
 }

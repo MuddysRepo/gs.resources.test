@@ -1,16 +1,16 @@
-
 --- digital sign certificate ---
 {
   "cryptoKey": "GinkgoStreet CryptographicKeyPair v1.0",
   "algorithm": "GinkgoStreet DigitalSignAlgorithm For Text (Standard v1.1)",
   "issuer": "GinkgoStreet",
-  "issueDate": "2022/04/13",
+  "issueDate": "2022/06/04",
   "contentLabel": "license for use of 'test.eternal'",
-  "signature": "p0dEb+7+lmtXfdDnaDj8SRYX4RsXHfa7l+XM+d3YP/puOm57tYfeyVJXayEY0I3nt29rTFnGSq2hvr1cyxKCpvdhAYaY1kq9uZlSG5lp/PFWjS0HEOasa0T5V3ZIGW3AvfpH5hz4H3JKK//6GTl4heCd4zXbxgbYHo/suuzOG98KJpqQN7k0qyMtzk5O0UgdoFU2mMBwPACJS2OqAGhawk1XImpGYKfDSd8YXmdEaV72SHjLzVxzMGeKQAVKZoSVajIQAE6Eo2YttM4PgK7y2HECj6bBmbRXM5OwLGJGHZLxYtiv4j9TU2VyG0M9UTuV7S1mDMziiWwLf8R8FTEj3g=="
+  "signature": "Rbh01h9LMG7yyTOCErM1RN+v3VuPbdWXRqzwgqjypSH3NmOygph+R9U7c5uiKZxOicit2rJ+ABrGSVsA7zOQWvsFbcbHyom9+F4YcKMU9fD94IU+yIXS5GIFyFMiq3YOtTTr15euYgvnyLbUdN2CWbWD/Vmeduzsy1kh6xo2EkdcoTTic5QH8DDPZy9lckmhJIRzYddB5fbzb9r4TerCTevDPcWgUHfIzxs3yDqzsEDd+W6NxMi4aGkrBNcAA52LsuOQJZG9p4N8liT+jcr1zQ7I9GymeUx0iq9jnf0OVTTQil8PkuGafRyfXmXMbvwXjpEtEk78pS+ZmIBC/ESizA=="
 }
 --- content ---
 {
+  "licenseType": "DateRangeLicense",
   "licenseId": "test.eternal",
-  "beginDate": "2020/01/01 00:00",
-  "endDate": "2039/12/26 23:59"
+  "beginDate": "2000/01/01",
+  "endDate": "2049/12/31"
 }
