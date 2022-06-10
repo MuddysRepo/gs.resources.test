@@ -1,0 +1,38 @@
+{
+	"products" :
+	[
+		{
+			"productId" : "HappyViewer.DLsite.Prerelease.1",
+			"latestVersion" : "1.0.0",
+			"lowestAvailableVersion" : "0.0.1",
+			"status" : "available"
+		},
+		{
+			"productId" : "HappyViewer.DLsite.Release.1",
+			"latestVersion" : "1.0.0",
+			"lowestAvailableVersion" : "0.0.1",
+			"status" : "available"
+		},
+		{
+			"productId" : "HappyViewer.DLsite.Trial.1",
+			"latestVersion" : "1.0.0",
+			"lowestAvailableVersion" : "0.0.1",
+			"status" : "available"
+		},
+		{
+			"productId" : "HappyViewer.DLsite.Sample.1",
+			"latestVersion" : "1.0.0",
+			"lowestAvailableVersion" : "0.0.1",
+			"status" : "available"
+		},
+		{
+			"productId" : "HappyViewer.DLsite.Developer.1",
+			"latestVersion" : "1.0.0",
+			"lowestAvailableVersion" : "0.0.1",
+			"status" : "available"
+		},
+		{	
+		}
+	],
+	"--TERM" : "" 
+}
