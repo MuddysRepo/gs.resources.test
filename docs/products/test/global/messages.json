@@ -3,36 +3,46 @@
     {
       "level": "special",
       "targets": [ 
-        "test.*" 
-      ],
-      "message": "Here is a special gift!"
+        "happyviewer.dlsite.prerelease.1" ],
+      "message": "Here's a special gift!!"
+    },
+
+    {
+    }
+
+  ],
+
+
+  
+  "-messages": [
+    {
+      "level": "special",
+      "targets": [ 
+        "happyviewer.dlsite.prerelease.1" ],
+      "message": "New version available!!"
     },
     {
       "level": "info",
       "targets": [ 
-        "test.*" 
+        "happyviewer.*" 
       ],
-      "message": "Information for all products."
+      "message": "Greeting from GinkgoStreet!"
     },
     {
       "level": "info",
       "targets": [ 
-        "test.*" 
+        "happyviewer.dlsite.*" 
       ],
       "message": "Hello, HappyDLsite users!"
     },
     {
       "level": "warning",
-      "targets": [ 
-        "test.*"  
-      ],
+      "targets": [ "happyviewer.dlsite.prerelease.1"  ],
       "message": "this is a sample warning message."
     },
     {
       "level": "error",
-      "targets": [ 
-        "test.*" 
-      ],
+      "targets": [ "happyviewer.dlsite.prerelease.1" ],
       "message": "this is a sample error message."
     }
 
